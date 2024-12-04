@@ -15,5 +15,9 @@
     "url": "https://github.com/RidhinSamuel/Real-Time-Markdown/issues"
   },
   "homepage": "https://github.com/RidhinSamuel/Real-Time-Markdown#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1"
+  }
 }
