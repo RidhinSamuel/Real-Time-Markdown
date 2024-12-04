@@ -1,0 +1,19 @@
+html, body, section, .full-height{
+    height: 100%;
+}
+
+#text-area{
+    font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+    border: 1px solid rgb(215, 207, 207);
+    overflow: auto;
+    outline: none;
+    resize: none;
+
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+#markdown{
+    overflow: auto;
+    border-left: 1px solid black;
+}

@@ -9,7 +9,7 @@ app.use(express.urlencoded({extended:true}));
 app.use(express.static(__dirname+'/public'));
 
 app.get("/",(req,res)=>{
-    res.render("test",{userName:"ridhin samuel"});
+    res.render("editor",{userName:"ridhin samuel"});
 });
 //create a port
 var port = process.env.PORT || 8000;
