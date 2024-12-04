@@ -1,0 +1,19 @@
+{
+  "name": "markdown",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RidhinSamuel/Real-Time-Markdown.git"
+  },
+  "author": "ridhin samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RidhinSamuel/Real-Time-Markdown/issues"
+  },
+  "homepage": "https://github.com/RidhinSamuel/Real-Time-Markdown#readme",
+  "description": ""
+}
